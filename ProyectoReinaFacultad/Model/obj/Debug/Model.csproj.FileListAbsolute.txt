@@ -1,0 +1,24 @@
+C:\ZProyectoPoe\ProyectoReinaFacultad\Model\bin\Debug\Model.dll
+C:\ZProyectoPoe\ProyectoReinaFacultad\Model\bin\Debug\Model.pdb
+C:\ZProyectoPoe\ProyectoReinaFacultad\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\ZProyectoPoe\ProyectoReinaFacultad\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\ZProyectoPoe\ProyectoReinaFacultad\Model\obj\Debug\Model.dll
+C:\ZProyectoPoe\ProyectoReinaFacultad\Model\obj\Debug\Model.pdb
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\Model\bin\Debug\Model.dll
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\Model\bin\Debug\Model.pdb
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\Model\obj\Debug\Model.dll
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\Model\obj\Debug\Model.pdb
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\Model\bin\Debug\Model.dll
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\Model\bin\Debug\Model.pdb
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\Model\obj\Debug\Model.dll
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\Model\obj\Debug\Model.pdb
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\Model\bin\Debug\Model.dll
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\Model\bin\Debug\Model.pdb
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\Model\obj\Debug\Model.dll
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\Model\obj\Debug\Model.pdb

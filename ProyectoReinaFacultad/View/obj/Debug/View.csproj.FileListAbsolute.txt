@@ -1,0 +1,113 @@
+C:\ZProyectoPoe\ProyectoReinaFacultad\View\obj\Debug\View.csproj.AssemblyReference.cache
+C:\ZProyectoPoe\ProyectoReinaFacultad\View\obj\Debug\Vista.Login.resources
+C:\ZProyectoPoe\ProyectoReinaFacultad\View\obj\Debug\View.Properties.Resources.resources
+C:\ZProyectoPoe\ProyectoReinaFacultad\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\ZProyectoPoe\ProyectoReinaFacultad\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\ZProyectoPoe\ProyectoReinaFacultad\View\bin\Debug\View.exe.config
+C:\ZProyectoPoe\ProyectoReinaFacultad\View\bin\Debug\View.exe
+C:\ZProyectoPoe\ProyectoReinaFacultad\View\bin\Debug\View.pdb
+C:\ZProyectoPoe\ProyectoReinaFacultad\View\bin\Debug\Controller.dll
+C:\ZProyectoPoe\ProyectoReinaFacultad\View\bin\Debug\Model.dll
+C:\ZProyectoPoe\ProyectoReinaFacultad\View\bin\Debug\Controller.pdb
+C:\ZProyectoPoe\ProyectoReinaFacultad\View\bin\Debug\Model.pdb
+C:\ZProyectoPoe\ProyectoReinaFacultad\View\obj\Debug\View.csproj.Up2Date
+C:\ZProyectoPoe\ProyectoReinaFacultad\View\obj\Debug\View.exe
+C:\ZProyectoPoe\ProyectoReinaFacultad\View\obj\Debug\View.pdb
+C:\ZProyectoPoe\ProyectoReinaFacultad\View\obj\Debug\View.FrmRegistroEstudiante.resources
+C:\ZProyectoPoe\ProyectoReinaFacultad\View\obj\Debug\View.FrmConsultarEstudiante.resources
+C:\ZProyectoPoe\ProyectoReinaFacultad\View\obj\Debug\View.FrmRegistroAdministrador.resources
+C:\ZProyectoPoe\ProyectoReinaFacultad\View\obj\Debug\View.FrmConsultarAdministrador.resources
+C:\ZProyectoPoe\ProyectoReinaFacultad\View\obj\Debug\Vista.FrmPrincipalAdministrador.resources
+C:\ZProyectoPoe\ProyectoReinaFacultad\View\obj\Debug\View.FrmRegistroCandidata.resources
+C:\ZProyectoPoe\ProyectoReinaFacultad\View\obj\Debug\View.FrmConsultarCandidata.resources
+C:\ZProyectoPoe\ProyectoReinaFacultad\View\obj\Debug\View.FrmPrincipalEstudiante.resources
+C:\ZProyectoPoe\ProyectoReinaFacultad\View\obj\Debug\View.Album.FrmGaleria.resources
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\View\bin\Debug\View.exe.config
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\View\bin\Debug\View.exe
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\View\bin\Debug\View.pdb
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\View\bin\Debug\Controller.dll
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\View\bin\Debug\Model.dll
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\View\bin\Debug\Controller.pdb
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\View\bin\Debug\Model.pdb
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\View\obj\Debug\View.csproj.AssemblyReference.cache
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\View\obj\Debug\View.FrmConsultarAdministrador.resources
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\View\obj\Debug\View.Album.FrmGaleria.resources
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\View\obj\Debug\View.FrmConsultarCandidata.resources
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\View\obj\Debug\View.FrmConsultarEstudiante.resources
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\View\obj\Debug\Vista.FrmPrincipalAdministrador.resources
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\View\obj\Debug\View.FrmRegistroAdministrador.resources
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\View\obj\Debug\View.FrmRegistroCandidata.resources
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\View\obj\Debug\View.FrmPrincipalEstudiante.resources
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\View\obj\Debug\View.FrmRegistroEstudiante.resources
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\View\obj\Debug\Vista.Login.resources
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\View\obj\Debug\View.csproj.Up2Date
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\View\obj\Debug\View.exe
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\View\obj\Debug\View.pdb
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\View\obj\Debug\View.FrmVotacionFotogenia.resources
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\View\obj\Debug\View.FrmCandidatas.resources
+C:\ZProyectoPoe\ProyectoReinaFacultad\View\obj\Debug\View.FrmCandidatas.resources
+C:\ZProyectoPoe\ProyectoReinaFacultad\View\obj\Debug\View.FrmPortafolio.resources
+C:\ZProyectoPoe\ProyectoReinaFacultad\View\obj\Debug\View.FrmVotacion.resources
+C:\ZProyectoPoe\ProyectoReinaFacultad\View\obj\Debug\View.FrmConsultarComentarios.resources
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\View\bin\Debug\View.exe.config
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\View\bin\Debug\View.exe
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\View\bin\Debug\View.pdb
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\View\bin\Debug\Controller.dll
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\View\bin\Debug\Model.dll
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\View\bin\Debug\Controller.pdb
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\View\bin\Debug\Model.pdb
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\View\obj\Debug\View.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\View\obj\Debug\View.FrmConsultarAdministrador.resources
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\View\obj\Debug\View.Album.FrmGaleria.resources
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\View\obj\Debug\View.FrmConsultarCandidata.resources
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\View\obj\Debug\View.FrmConsultarEstudiante.resources
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\View\obj\Debug\Vista.FrmPrincipalAdministrador.resources
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\View\obj\Debug\View.FrmRegistroAdministrador.resources
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\View\obj\Debug\View.FrmRegistroCandidata.resources
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\View\obj\Debug\View.FrmPrincipalEstudiante.resources
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\View\obj\Debug\View.FrmRegistroEstudiante.resources
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\View\obj\Debug\View.FrmConsultarComentarios.resources
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\View\obj\Debug\View.FrmPortafolio.resources
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\View\obj\Debug\Vista.Login.resources
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\View\obj\Debug\View.FrmVotacion.resources
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\View\obj\Debug\View.FrmCandidatas.resources
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\View\obj\Debug\View.csproj.Up2Date
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\View\obj\Debug\View.exe
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\View\obj\Debug\View.pdb
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\View\obj\Debug\View.FrmResultados.resources
+C:\ZProyectoPoe\ProyectoReinaFacultad\View\obj\Debug\View.FrmResultados.resources
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\View\bin\Debug\View.exe.config
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\View\bin\Debug\View.exe
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\View\bin\Debug\View.pdb
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\View\bin\Debug\Controller.dll
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\View\bin\Debug\Model.dll
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\View\bin\Debug\Controller.pdb
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\View\bin\Debug\Model.pdb
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\View\obj\Debug\View.csproj.AssemblyReference.cache
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\View\obj\Debug\View.FrmConsultarAdministrador.resources
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\View\obj\Debug\View.Album.FrmGaleria.resources
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\View\obj\Debug\View.FrmConsultarCandidata.resources
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\View\obj\Debug\View.FrmResultados.resources
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\View\obj\Debug\View.FrmConsultarEstudiante.resources
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\View\obj\Debug\Vista.FrmPrincipalAdministrador.resources
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\View\obj\Debug\View.FrmRegistroAdministrador.resources
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\View\obj\Debug\View.FrmRegistroCandidata.resources
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\View\obj\Debug\View.FrmPrincipalEstudiante.resources
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\View\obj\Debug\View.FrmRegistroEstudiante.resources
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\View\obj\Debug\View.FrmConsultarComentarios.resources
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\View\obj\Debug\View.FrmPortafolio.resources
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\View\obj\Debug\Vista.Login.resources
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\View\obj\Debug\View.FrmVotacion.resources
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\View\obj\Debug\View.FrmCandidatas.resources
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\View\obj\Debug\View.csproj.Up2Date
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\View\obj\Debug\View.exe
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\View\obj\Debug\View.pdb

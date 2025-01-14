@@ -1,0 +1,36 @@
+C:\ZProyectoPoe\ProyectoReinaFacultad\Controller\bin\Debug\Controller.dll
+C:\ZProyectoPoe\ProyectoReinaFacultad\Controller\bin\Debug\Controller.pdb
+C:\ZProyectoPoe\ProyectoReinaFacultad\Controller\bin\Debug\Model.dll
+C:\ZProyectoPoe\ProyectoReinaFacultad\Controller\bin\Debug\Model.pdb
+C:\ZProyectoPoe\ProyectoReinaFacultad\Controller\obj\Debug\Controller.csproj.AssemblyReference.cache
+C:\ZProyectoPoe\ProyectoReinaFacultad\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\ZProyectoPoe\ProyectoReinaFacultad\Controller\obj\Debug\Controller.csproj.Up2Date
+C:\ZProyectoPoe\ProyectoReinaFacultad\Controller\obj\Debug\Controller.dll
+C:\ZProyectoPoe\ProyectoReinaFacultad\Controller\obj\Debug\Controller.pdb
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\Controller\bin\Debug\Controller.dll
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\Controller\bin\Debug\Controller.pdb
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\Controller\bin\Debug\Model.dll
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\Controller\bin\Debug\Model.pdb
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\Controller\obj\Debug\Controller.csproj.AssemblyReference.cache
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\Controller\obj\Debug\Controller.csproj.Up2Date
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\Controller\obj\Debug\Controller.dll
+C:\Users\allan\Downloads\ProyectoReinaFacultad (1)\ProyectoReinaFacultad\Controller\obj\Debug\Controller.pdb
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\Controller\bin\Debug\Controller.dll
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\Controller\bin\Debug\Controller.pdb
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\Controller\bin\Debug\Model.dll
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\Controller\bin\Debug\Model.pdb
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\Controller\obj\Debug\Controller.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\Controller\obj\Debug\Controller.csproj.Up2Date
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\Controller\obj\Debug\Controller.dll
+C:\Users\USER\source\repos\ProyectoReinaFacultad Actual\Controller\obj\Debug\Controller.pdb
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\Controller\bin\Debug\Controller.dll
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\Controller\bin\Debug\Controller.pdb
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\Controller\bin\Debug\Model.dll
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\Controller\bin\Debug\Model.pdb
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\Controller\obj\Debug\Controller.csproj.AssemblyReference.cache
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\Controller\obj\Debug\Controller.csproj.Up2Date
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\Controller\obj\Debug\Controller.dll
+C:\Users\USR\Downloads\OneDrive_2024-10-21\T14 Proyecto - FINAL\ProyectoReinaFacultad\Controller\obj\Debug\Controller.pdb
